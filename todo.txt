@@ -1,0 +1,19 @@
+Four three.js groups
+- color streamlines
+- grey streamlines
+- color tubes
+- grey tubes
+
+
+# Approach #1 one object per grey bundle
+- 82 total objects
+- Grey obj:
+  * mouseover highlight
+  * mouseout recover
+  * mouseclick
+    - make color version visible
+- Color obj
+  * mouseover highlight
+  * mouseout recover
+  * mouseclick
+    - make color version invisible
